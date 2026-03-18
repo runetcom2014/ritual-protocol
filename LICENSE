@@ -1,0 +1,39 @@
+Ritual Protocol License 1.0
+Copyright (c) 2025 Ritual Protocol Authors
+
+Author public key: [Ed25519 public key — to be added before publication]
+
+== Definitions ==
+
+"Protocol" means the Ritual Protocol and its cryptographic design as
+described in the official specification document.
+
+"V1 Profile" means the specific set of constants defined in this
+implementation that enable interoperability with Ritual Protocol V1:
+type tags, domain separator, KDF parameters, and rite datasets.
+
+"Compatible Implementation" means any implementation of the Protocol
+that uses the V1 Profile constants and produces identical keys for
+identical ritual inputs.
+
+"Commercial Use" means use in a product or service for which you charge
+fees, or use in internal business operations of a for-profit entity.
+
+== Terms ==
+
+1. NON-COMMERCIAL USE
+   You may use, copy, and distribute this software and any Compatible
+   Implementation free of charge for non-commercial purposes.
+
+2. COMMERCIAL USE
+   Commercial Use of this software or any Compatible Implementation
+   requires a separate written license agreement with the copyright holders.
+   To obtain a commercial license, contact the author by signing a message
+   with their public key to verify identity, or via GitHub.
+
+3. ATTRIBUTION
+   Any use must retain this license, copyright notice, and a reference
+   to the official Ritual Protocol specification (DOI — to be added).
+
+4. NO WARRANTY
+   This software is provided "as is", without warranty of any kind.

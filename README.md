@@ -43,7 +43,7 @@ requires a license. See [LICENSE](LICENSE).
 
 ## Specification
 
-Full protocol specification: [DOI — to be added]
+Full protocol specification: [10.5281/zenodo.19090390]
 
 ## Build
 
